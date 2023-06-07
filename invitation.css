@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    background-color: rgb(223, 211, 144);
+    color: rgb(16, 8, 9);
+    
+}
+.reply{
+    color: midnightblue;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.invite{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+}
+.yours{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#hi{
+    font-family: 'Josefin Sans', sans-serif;
+}
